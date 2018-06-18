@@ -27,7 +27,7 @@ As evidências dos testes encontram-se dentro da pasta "Reports" em "TesteWebQA\
  
  <b>Instalar o projeto:</b>
 - Fazer o clone do projeto ou efetuar o download;
-- Abrir a solution TesteWebQA.sln
+- Abrir a solution TesteWebQA.sln.
 
 Após, clicar com o botão direito em cima do projeto e ir em "Manage Nuget Packages..."
 e instalar o SpecFlow e SpecFlow.NUnit
