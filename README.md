@@ -3,24 +3,27 @@
 Foram efetuados testes de acesso ao sistema
 - Login
   - Usuário ou senha inválidos ou vazios;
-  - Usuário e senha corretos
+  - Usuário e senha corretos.
 - Logout
 
 <b>Pontos de verificação:</b>
-- Se está na página inicial (logado com sucesso)
-- Se logou com user e senha incorretos (login com falha)
-- Se efetuou logout com sucesso
+- Se está na página inicial (logado com sucesso);
+- Se logou com user e senha incorretos (login com falha);
+- Se efetuou logout com sucesso.
+
+As evidências dos testes encontram-se dentro da pasta "Reports" em "TesteWebQA\Reports"
 
 <b>Tecnologias utlizadas:</b>
 
-- Visual Studio 2015 - C#
-- Specflow (Escrita dos cenários em BDD)
-- ExtentReport (Geração de Report)
+- Visual Studio 2015 - C#;
+- Specflow (Escrita dos cenários em BDD);
+- ExtentReport (Geração de Report).
 
 # Instalação do projeto e configuração de ambiente
 
 <b>No Visual Studio:</b>
- Vá em Tools –> Extension and Updates –> Procurar por SpecFlow
+ - Vá em Tools –> Extension and Updates –> Procurar por SpecFlow;
+ - Reiniciar a IDE.
 
 Após, clicar com o botão direito em cima do projeto e ir em "Manage Nuget Packages..."
 e instalar o SpecFlow e SpecFlow.NUnit
