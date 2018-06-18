@@ -1,4 +1,4 @@
-# Teste QA Automation - Sistema Orange HRM
+# Teste Web QA Automation - Sistema Orange HRM
 
 Foram efetuados testes de acesso ao sistema
 - Login
